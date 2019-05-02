@@ -1,0 +1,21 @@
+html, body, #app {
+  height: 100%;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.el-card,
+.el-table {
+  margin-top: 15px;
+}
+.el-pagination {
+  float: right;
+  margin: 20px 0;
+}
+.el-submenu .el-menu-item {
+  min-width: 180px !important;
+}
+.el-step__title {
+  font-size: 13px !important;
+}
